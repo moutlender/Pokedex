@@ -1,2 +1,2 @@
 # Pokedex
- Colocando os conhecimentos em Javascript em pratica 
+ Projeto de uma Pokedex usando Javascript puro 
